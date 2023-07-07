@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/search-movies.com/static/css/main.5af7148d.css",
+    "main.js": "/search-movies.com/static/js/main.81472b12.js",
+    "index.html": "/search-movies.com/index.html",
+    "static/media/search.svg": "/search-movies.com/static/media/search.f3ff94e8ab891a996fe48c358a230381.svg",
+    "main.5af7148d.css.map": "/search-movies.com/static/css/main.5af7148d.css.map",
+    "main.81472b12.js.map": "/search-movies.com/static/js/main.81472b12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5af7148d.css",
+    "static/js/main.81472b12.js"
+  ]
+}
